@@ -1,0 +1,10 @@
+pandas>=2.2
+numpy>=1.26
+scikit-learn>=1.5
+xgboost>=2.1
+prophet>=1.1
+statsmodels>=0.14
+shap>=0.46
+mlflow>=2.16
+streamlit>=1.39
+matplotlib>=3.9
